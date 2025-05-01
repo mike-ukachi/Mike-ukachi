@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**mike-ukachi/Mike-ukachi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+**
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on developing my programming skillset 
+- 🌱 I’m currently learning Backend Engineering at ALX 
+- 👯 I’m looking to collaborate on Opensource project and Machine-learning Projects 
+- 🤔 I’m looking for help with anything Emerging Technology 
+- 💬 Ask me about Project Management 
+- 📫 How to reach me: via email mikeukachi@outlook.com 
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I love breaking stuff and building in the emerging tech industry 
+  
